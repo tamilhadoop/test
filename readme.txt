@@ -3,12 +3,12 @@ For any questions - Please email me at DevOps@RajeshKumar.gxyz/
 # this isddd a fix og sdfljflld fjldsfjdsjfkdl;sdasdasdasd
 # ========================NEXUS==============================
 
-
+adding new line
 
 ===============ARTIFACTORY=================
 <distributionManagement>
 	<repository>
-		<id>rajesh</id>
+		<id>rajesh</id1>
 		<name>Internal Releases</name>
 		<url>http://13.127.94.210:8081/artifactory/list/rajesh-release/</url>
 	</repository>
